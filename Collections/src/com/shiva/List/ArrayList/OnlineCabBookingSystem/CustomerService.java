@@ -1,4 +1,4 @@
-package com.shiva.ArrayList.OnlineCabBookingSystem;
+package com.shiva.List.ArrayList.OnlineCabBookingSystem;
 
 import java.util.ArrayList;
 
