@@ -9,3 +9,14 @@
 
 # Compiled output
 bin/
+*.class
+
+# Logs
+*.log
+
+# Build tools
+target/      # Maven
+build/       # Gradle
+
+# VS Code (optional)
+.vscode/
